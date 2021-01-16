@@ -58,3 +58,5 @@ You can setup a reminder, it ping you when you want just set the date & time!
 Setup
 Type "&help set" for all setup details!
 
+# Full Commands
+[See the Full Commands](Commands.md)
