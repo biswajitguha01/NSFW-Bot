@@ -7,7 +7,7 @@ Awosome Multipurpose bot with lots of fun & adminstration commands.
 # Total Servers 2.2k+ Servers
 
 # Visit Website 
-[Website](https://merinabot.gq) [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=778968394782212168&permissions=8&scope=bot)
+[Website](https://merinabot.gq) | [Invite Bot](https://discord.com/api/oauth2/authorize?client_id=778968394782212168&permissions=8&scope=bot)
 
 # FeaturesAuto Moderation
 
